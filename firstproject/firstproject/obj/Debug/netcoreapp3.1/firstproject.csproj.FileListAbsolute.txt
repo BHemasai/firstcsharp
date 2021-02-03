@@ -1,0 +1,13 @@
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.exe
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.deps.json
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.runtimeconfig.json
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.runtimeconfig.dev.json
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.dll
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\bin\Debug\netcoreapp3.1\firstproject.pdb
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.csprojAssemblyReference.cache
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.AssemblyInfoInputs.cache
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.AssemblyInfo.cs
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.csproj.CoreCompileInputs.cache
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.dll
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.pdb
+D:\kalpita\trainig\csharp\tasks\firstproject\firstproject\obj\Debug\netcoreapp3.1\firstproject.genruntimeconfig.cache
